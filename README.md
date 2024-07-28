@@ -26,7 +26,7 @@ Provide an overview and summary of the data used for analysis.
      - Analyze and visualize the symmetry and dispersion of price distribution in each country.
      - Analyze the total price and the average price differences
    - **3.1.4 Geographical Distribution of Sales Density by Country**
-     - Create a geographical heatmap to show sales density by country.
+     - Analyze and visualize a geographical map with quantity distribution to show sales density by country.
 
    ### 3.2 Time Series Analysis
    - **3.2.1 Year**
