@@ -99,13 +99,13 @@ Provide an overview and summary of the data used for analysis.
        - Develop specific marketing strategies to engage and retain high-value customers.
    - **5.4.2 Cluster 1: Low-Value or Potentially At-Risk Customers**
      - **5.4.2.1 Characteristics**
-       - Describe the key characteristics of low-value or potentially at-risk customers
+       - Describe the key characteristics of low-value or potentially at-risk customers.
      - **5.4.2.2 Marketing Strategies**
-       - Develop specific marketing strategies to re-engage and retain low-value or at-risk customers
+       - Develop specific marketing strategies to re-engage and retain low-value or at-risk customers.
    - **5.4.3 Cluster 2: Medium-Value Customers**
      - **5.4.3.1 Characteristics**
-       - Describe the key characteristics of medium-value customers
+       - Describe the key characteristics of medium-value customers.
      - **5.4.3.2 Marketing Strategies**
-       - Develop specific marketing strategies to nurture and increase the value of medium-value customers
+       - Develop specific marketing strategies to nurture and increase the value of medium-value customers.
    - **5.4.4 Additional Recommendations**
-       - Provide additional marketing recommendations to enhance overall customer engagement and value
+       - Provide additional marketing recommendations to enhance overall customer engagement and value.
