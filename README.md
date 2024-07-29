@@ -8,7 +8,7 @@ This repository contains the code for my portfolio project on customer segmentat
 3. [Exploring Data](#exploring-data)
 4. [Cohort Analysis](#cohort-analysis)
 5. [RFM Analysis](#rfm-analysis)
-6. [Marketing strategies](#marketing strategies)
+6. [Marketing strategies](#marketing-strategies)
 7. [Workflow Overview](#workflow-overview)
 
 ## Data Summary
@@ -28,8 +28,8 @@ Provide an overview and summary of the data used for analysis by SQL.
 ### Time Series Analysis
 - Distribution of transactions by year, month, week, day, and season.
 - Top products by sales for each season.
-- Distribution of total orders and total Sales by season
-- 
+- Distribution of total orders and total Sales by season.
+
 ## Cohort Analysis
 - Define cohorts.
 - Data collection and preparation.
@@ -48,6 +48,6 @@ Provide an overview and summary of the data used for analysis by SQL.
 ## Workflow Overview
 Here is a workflow diagram illustrating the steps involved in the customer segmentation process:
 
-![Workflow Diagram](workflow/Analysis.png)
+![Workflow Diagram](https://github.com/Junyi116/Customer_Segmentation/blob/main/Workflow/Analysis.PNG)
 
 For more detailed information, please refer to the [Jupyter Notebook](https://github.com/Junyi116/Customer_Segmentation/blob/main/Customer%20Segmentation.ipynb)
