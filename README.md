@@ -8,7 +8,7 @@ This repository contains the code for my portfolio project on customer segmentat
 3. [Exploring Data](#exploring-data)
 4. [Cohort Analysis](#cohort-analysis)
 5. [RFM Analysis](#rfm-analysis)
-6. [Marketing strategies](#marketing-strategies)
+6. [Marketing Strategies](#marketing-strategies)
 7. [Workflow Overview](#workflow-overview)
 
 ## Data Summary
@@ -51,3 +51,6 @@ Here is a workflow diagram illustrating the steps involved in the customer segme
 ![Workflow Diagram](https://github.com/Junyi116/Customer_Segmentation/blob/main/Workflow/Analysis.PNG)
 
 For more detailed information, please refer to the [Jupyter Notebook](https://github.com/Junyi116/Customer_Segmentation/blob/main/Customer%20Segmentation.ipynb)
+
+## Related Projects
+For the ETL pipeline used in this project, please visit my [ETL Pipeline Repository](https://github.com/Junyi116/etl-pipeline).
