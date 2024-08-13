@@ -9,7 +9,7 @@ This repository contains the code for my portfolio project on customer segmentat
 4. [Cohort Analysis](#cohort-analysis)
 5. [RFM Analysis](#rfm-analysis)
 6. [Marketing Strategies](#marketing-strategies)
-7. [Workflow Overview](#workflow-overview)
+
 
 ## Data Summary
 Provide an overview and summary of the data used for analysis by SQL.
