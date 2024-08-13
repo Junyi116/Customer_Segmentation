@@ -50,7 +50,7 @@ Here is a workflow diagram illustrating the steps involved in the customer segme
 
 ![Workflow Diagram](https://github.com/Junyi116/Customer_Segmentation/blob/main/Workflow/Analysis.PNG)
 
-For more detailed information, please refer to the [Jupyter Notebook](https://github.com/Junyi116/Customer_Segmentation/blob/main/Customer%20Segmentation.ipynb)
+For more detailed information, please refer to the [Customer Segmentation.ipynb](https://github.com/Junyi116/Customer_Segmentation/blob/main/Customer%20Segmentation.ipynb)
 
 ## Related Projects
 For the ETL pipeline used in this project, please visit my [ETL Pipeline Repository](https://github.com/Junyi116/etl-pipeline).
